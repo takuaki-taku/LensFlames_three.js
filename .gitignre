@@ -1,0 +1,105 @@
+# Logs
+logs/
+*.log
+
+# Build artifacts
+build/
+dist/
+out/
+*.d.ts
+
+# Package management
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE files
+.vscode/
+*.suo
+*.ntvs*
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.tmproj
+*.opendb
+*.VC.db
+*.VC.opendb
+*.boo
+*.pidb
+*.suo
+*.VC.vc.db
+*.sdf
+*.cache
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.autosave
+*.orig
+*.rej
+*.pyc
+*.egg-info
+__pycache__/
+
+# OS generated files
+Thumbs.db
+.DS_Store
+
+# Local settings
+local.settings.json
+.env
+
+# Temporary files
+tmp/
+temp/
+
+# Editor specific files
+.idea/
+*.iml
+*.idea
+*.jpr
+*.ncb
+*.sdf
+*.suo
+*.user
+*.sln
+*.csproj
+*.vcxproj
+*.xcodeproj
+*.pbxproj
+*.xcworkspace
+*.project
+*.classpath
+*.settings
+*.metadata
+*.project
+*.cproject
+*.launch
+*.deploy
+*.prefs
+*.log
+*.cache
+*.tmp
+*.bak
+*.swp
+*.swo
+*.swn
+*.autosave
+*.orig
+*.rej
+*.pyc
+*.egg-info
+__pycache__/
+
+# Other
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.tar.bz2
+*.tar
+*.gz
+*.bz2
